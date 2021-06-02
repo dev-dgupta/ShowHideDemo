@@ -1,0 +1,2 @@
+rootProject.name = "Show and Hide element Demo"
+include ':app'
